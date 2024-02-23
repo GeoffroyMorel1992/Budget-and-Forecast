@@ -14,7 +14,7 @@ While the budget remains static, the forecast adapts to economic and operational
 We will employ Python and machine learning to analyze financial trends based on historical data and optimize budgets through an optimal allocation system of resources.
 
 The machine learning methods to be utilized include:
-- Linear Regression: Establishes a linear relationship between input variables and the target variable for making predictions
-- Random Forests: Utilizes an ensemble of decision trees to enhance accuracy and mitigate overfitting
-- SARIMA (Seasonal AutoRegressive Integrated Moving Average): Accounts for seasonality in temporal data
-- XGBoost: A gradient boosting algorithm suitable for regression tasks
+- Linear Regression
+- Random Forests
+- SARIMA (Seasonal AutoRegressive Integrated Moving Average)
+- XGBoost
